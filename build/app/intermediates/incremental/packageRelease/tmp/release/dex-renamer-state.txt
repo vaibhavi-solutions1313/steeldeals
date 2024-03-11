@@ -1,0 +1,4 @@
+#Mon Mar 11 19:28:32 IST 2024
+base.0=D\:\\Solutions1313\\steeldeals-09032024\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

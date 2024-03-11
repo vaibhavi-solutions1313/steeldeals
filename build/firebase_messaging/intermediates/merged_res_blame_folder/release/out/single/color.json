@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

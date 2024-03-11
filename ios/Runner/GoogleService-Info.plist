@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDJQSHr-C9ORf41cjN8o4Yb_XqT9N8s8js</string>
+	<key>GCM_SENDER_ID</key>
+	<string>83193204813</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.servicesprovider.solutions1313.servicesProviderApplication</string>
+	<key>PROJECT_ID</key>
+	<string>steeldeal-e69a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>steeldeal-e69a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:83193204813:ios:310aac32f7c11264e1cc04</string>
+</dict>
+</plist>

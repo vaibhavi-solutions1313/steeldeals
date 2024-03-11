@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Solutions1313\\steeldeals-09032024\\build\\flutter_geocoder\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Solutions1313\\steeldeals-09032024\\build\\flutter_geocoder\\intermediates\\merged_res\\release\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

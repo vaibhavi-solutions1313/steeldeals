@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\in_app_review\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\in_app_review\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\in_app_review\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\in_app_review\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\in_app_review\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

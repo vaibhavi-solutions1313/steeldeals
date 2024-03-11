@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\d06e96066409aad8ade4d85fd4f4b49b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Solutions1313\\steeldeals-09032024\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\winpc\\.gradle\\caches\\transforms-3\\e383ec3f1649b8b4c8916e5780766cdd\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]
